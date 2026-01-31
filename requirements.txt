@@ -1,0 +1,9 @@
+torch
+scikit-learn
+transformers
+pandas
+evaluate
+sentencepiece
+sacremoses
+nltk
+ipywidgets
